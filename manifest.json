@@ -8,12 +8,12 @@
     "category": "LiveTV",
     "versions": [
       {
-        "version": "6.0.2.0",
-        "changelog": "### Updated to .net 9.0 and Jellyfin 10.11",
+        "version": "6.0.2.1",
+        "changelog": "### Downgraded packages Microsoft.Extensions.DependencyInjection and Microsoft.Extensions.Http for compatibility with jellyfin docker container",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/leoguiders/jellyfin-plugin-enigma2/releases/download/release-6.0.2.0/Jellyfin.Plugin.Enigma2_6.0.2.0.zip",
-        "checksum": "0584f5482289fc4a7e03021a82d5a532",
-        "timestamp": "2025-11-20T13:57:10Z"
+        "sourceUrl": "https://github.com/leoguiders/jellyfin-plugin-enigma2/releases/download/release-6.0.2.1/Jellyfin.Plugin.Enigma2_6.0.2.1.zip",
+        "checksum": "2f06244d0190d72fd1991d677105c4fe",
+        "timestamp": "2025-11-20T13:32:45Z"
       }
     ]
   }
