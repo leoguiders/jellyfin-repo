@@ -8,12 +8,12 @@
     "category": "LiveTV",
     "versions": [
       {
-        "version": "6.0.1.0",
-        "changelog": "### Configuration Parameters Updated",
+        "version": "6.0.1.1",
+        "changelog": "### Configuration setter cannot be private",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://github.com/leoguiders/jellyfin-plugin-enigma2/releases/download/release-6.0.1.0/Jellyfin.Plugin.Enigma2_6.0.1.0.zip",
-        "checksum": "c8f5dc823e0fd60f914bf16f5bfcd2e2",
-        "timestamp": "2025-11-20T10:45:04Z"
+        "sourceUrl": "https://github.com/leoguiders/jellyfin-plugin-enigma2/releases/download/release-6.0.1.1/Jellyfin.Plugin.Enigma2_6.0.1.1.zip",
+        "checksum": "7c1a734f47f7f74217406a6b162d7be7",
+        "timestamp": "2025-11-20T13:18:56Z"
       }
     ]
   }
