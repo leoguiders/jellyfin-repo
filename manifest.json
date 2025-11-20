@@ -34,12 +34,12 @@
         "timestamp": "2022-06-28T22:40:16Z"
       },
       {
-        "version": "6.0.0.0",
-        "changelog": "### Update for Jellyfin 10.9.0",
+        "version": "6.0.1.0",
+        "changelog": "### Configuration Parameters Updated",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://github.com/knackebrot/jellyfin-plugin-enigma2/releases/download/6.0.0.0/Jellyfin.Plugin.Enigma2_6.0.0.0.zip",
-        "checksum": "d8dcda9f2c64b23f8cb0854f81b37966",
-        "timestamp": "2024-06-22T17:38:37Z"
+        "sourceUrl": "https://github.com/leoguiders/jellyfin-plugin-enigma2/releases/download/release-6.0.1.0/Jellyfin.Plugin.Enigma2_6.0.1.0.zip",
+        "checksum": "c8f5dc823e0fd60f914bf16f5bfcd2e2",
+        "timestamp": "2025-11-20T10:45:04Z"
       }
     ]
   }
